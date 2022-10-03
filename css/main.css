@@ -1,0 +1,134 @@
+body {
+    font-size: 14px;
+    background: #E1FFFF;
+    width: 1200px;
+    height: 1274px
+}
+/*.rec1 {
+    position: absolute;
+    width: 1200px;
+    height: 506px;
+    top: 768px;
+    background: #F6F6F6;
+}*/
+.obl {
+    position: absolute;
+    width: 1159px;
+    height: 599px;
+    top: 150px;
+    left: 25px;
+    background: url("../design/obl.jpg");
+}
+.wikitxt {
+    position: absolute;
+    width: 1159px;
+    height: 599px;
+    top: 775px;
+    left: 25px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+    color: black;
+}
+.home {
+    position: absolute;
+    width: 89px;
+    height: 90px;
+    top: 0px;
+    left: 0px;
+    background: url("../design/home.png");
+}
+.AI {
+    position: absolute;
+    width: 89px;
+    height: 90px;
+    top: 0px;
+    left: 300px;
+    background: url("../design/AI.png");
+}
+.oblAi {
+    position: absolute;
+    width: 1280px;
+    height: 720px;
+    top: 150px;
+    left: 25px;
+    background: url("../design/oblAI.jpg");
+}
+.AItxt {
+    position: absolute;
+    width: 1159px;
+    height: 599px;
+    top: 900px;
+    left: 25px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+    color: black;
+}
+
+.AE {
+    position: absolute;
+    width: 89px;
+    height: 90px;
+    top: 0px;
+    left: 500px;
+    background: url("../design/AE.png");
+}
+
+.oblAE {
+    position: absolute;
+    width: 1280px;
+    height: 720px;
+    top: 150px;
+    left: 25px;
+    background: url("../design/oblAE.jpg");
+}
+
+.AEtxt {
+    position: absolute;
+    width: 1159px;
+    height: 599px;
+    top: 900px;
+    left: 25px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+    color: black;
+}
+.PR {
+    position: absolute;
+    width: 89px;
+    height: 90px;
+    top: 0px;
+    left: 500px;
+    background: url("../design/PR.png");
+}
+
+.oblPR {
+    position: absolute;
+    width: 1280px;
+    height: 720px;
+    top: 150px;
+    left: 25px;
+    background: url("../design/oblPR.jpg");
+}
+
+.PRtxt {
+    position: absolute;
+    width: 1159px;
+    height: 599px;
+    top: 900px;
+    left: 25px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+    color: black;
+}
